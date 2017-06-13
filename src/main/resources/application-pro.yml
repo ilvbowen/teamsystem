@@ -1,0 +1,8 @@
+server:
+  port: 8076
+spring:
+  datasource:
+    username: root
+    password: lbw
+    url: jdbc:mysql://127.0.0.1:3306/teamsystem
+    driver-class-name: com.mysql.jdbc.Driver
